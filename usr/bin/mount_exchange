@@ -77,4 +77,4 @@ fi
 
 # mount the exchange partition
 echo "exchange partition: \"${EXCHANGE_PARTITION}\"" >> ${LOG}
-udisks --mount ${EXCHANGE_PARTITION}
+udisksctl mount -b ${EXCHANGE_PARTITION}
