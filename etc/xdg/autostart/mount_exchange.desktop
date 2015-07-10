@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Name=Automount exchange partition
+Name[de]=Austauschpartition automatisch einbinden
+Exec=mount_exchange
+X-GNOME-Autostart-enabled=true

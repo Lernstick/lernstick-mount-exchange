@@ -1,0 +1,23 @@
+lernstick-mount-exchange (2) lernstick-8; urgency=medium
+
+  * initial version for Debian 8
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 10 Jul 2015 17:52:40 +0200
+
+lernstick-mount-exchange-wheezy (1.2-1) unstable; urgency=low
+
+  * updated script to find and mount exchange partition
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Wed, 14 May 2014 17:27:11 +0200
+
+lernstick-mount-exchange-wheezy (1.1-1) unstable; urgency=low
+
+  * adopted to new partitioning schema
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Wed, 09 Apr 2014 18:34:52 +0200
+
+lernstick-mount-exchange-wheezy (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 20 Sep 2013 08:37:47 +0200
