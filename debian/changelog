@@ -1,3 +1,10 @@
+lernstick-mount-exchange (4) lernstick-8; urgency=medium
+
+  * [c3c209] added gitignore file
+  * [2fe888] fixed mount call
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 10 Jul 2015 18:18:00 +0200
+
 lernstick-mount-exchange (3) lernstick-8; urgency=medium
 
   * [f8195e] fixed control file
