@@ -1,3 +1,9 @@
+lernstick-mount-exchange (5) lernstick-8; urgency=medium
+
+  * [5ed94f] added support for EFI partition
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 31 Jan 2016 11:15:54 +0100
+
 lernstick-mount-exchange (4) lernstick-8; urgency=medium
 
   * [c3c209] added gitignore file
