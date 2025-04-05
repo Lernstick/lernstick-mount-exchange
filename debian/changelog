@@ -1,4 +1,10 @@
-lernstick-mount-exchange (6) lernstick-8; urgency=medium
+lernstick-mount-exchange (7) lernstick-12; urgency=medium
+
+  * [d26267] updated Debian maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 05 Apr 2025 22:35:11 +0200
+
+lernstick-mount-exchange (6) lernstick-12; urgency=medium
 
   * [16531d] added support for Lernstick label, code cleanup
 
