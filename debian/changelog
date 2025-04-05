@@ -1,3 +1,9 @@
+lernstick-mount-exchange (6) lernstick-8; urgency=medium
+
+  * [16531d] added support for Lernstick label, code cleanup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 05 Apr 2025 22:28:25 +0200
+
 lernstick-mount-exchange (5) lernstick-8; urgency=medium
 
   * [5ed94f] added support for EFI partition
